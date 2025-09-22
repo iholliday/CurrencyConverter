@@ -7,7 +7,10 @@ console.log('Input: ',input)
 
 const GBPtoEUR = 1.15;
 const GBPtoUSD = 1.35;
-
+const convertions = [
+    ['GBP', 'EUR', 'USD'],
+    ['1', '1.15', '1.35']
+]
 
 if (startCurrency = 'EUR') {
     GBP = input / GBPtoEUR;
