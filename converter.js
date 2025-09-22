@@ -12,6 +12,8 @@ const convertions = [
     ['1', '1.15', '1.35']
 ]
 
+//
+
 if (startCurrency = 'EUR') {
     GBP = input / GBPtoEUR;
 }
